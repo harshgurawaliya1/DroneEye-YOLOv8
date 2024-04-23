@@ -2,6 +2,7 @@
 YOLOv8 Custom Training for Aerial Personal Identification
 
 This repository contains the training pipeline for a custom YOLOv8 model designed for identifying individuals from aerial drone footage, with a special focus on two subjects: 'Jai' and 'Harsh'. The model was trained using a modified YOLOv8 large (yolov8l) architecture for enhanced detection precision in complex environments.
+youtube video link : https://youtu.be/m8ZwA6-17xQ?si=kbDPogQdSrE7BxpU
 ![Screenshot 2024-04-14 033431](https://github.com/harshgurawaliya1/DroneEye-YOLOv8/assets/106898396/809af247-e050-4bca-8904-12ac6fd094e4)
 
 Training Configuration
